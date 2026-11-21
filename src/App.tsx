@@ -276,7 +276,7 @@ export default function App() {
             }}
             className="font-display text-base sm:text-lg font-bold tracking-tight text-zinc-900 dark:text-white whitespace-nowrap shrink-0"
           >
-            RadioWin AR
+            RADIOGUI LLOTE
           </a>
 
           <nav

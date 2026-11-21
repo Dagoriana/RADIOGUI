@@ -16,8 +16,8 @@ export default defineConfig(() => {
         manifest: {
           id: '/',
           lang: 'es-AR',
-          name: 'RadioWin AR — Radios Argentinas',
-          short_name: 'RadioWin AR',
+          name: 'RADIOGUI LLOTE — Radios Argentinas',
+          short_name: 'RADIOGUI LLOTE',
           description: 'Sintonizador liviano estilo Winamp de radios argentinas en vivo con ahorro de datos y gestión de caché.',
           theme_color: '#111318',
           background_color: '#0d0f13',

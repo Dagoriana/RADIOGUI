@@ -1,6 +1,6 @@
 {
-  "appId": "ar.radiowin.app",
-  "appName": "RadioWin AR",
+  "appId": "ar.radioguillote.app",
+  "appName": "RADIOGUI LLOTE",
   "webDir": "dist",
   "server": {
     "androidScheme": "https",

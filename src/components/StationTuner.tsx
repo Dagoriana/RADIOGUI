@@ -221,7 +221,7 @@ export const StationTuner: React.FC<StationTunerProps> = ({
             Sin resultados para ese filtro.
           </div>
         ) : (
-          <ul className="divide-y divide-zinc-200/80 dark:divide-zinc-800/80 max-h-[520px] overflow-y-auto">
+          <ul className="divide-y divide-zinc-200/80 dark:divide-zinc-800/80 lg:max-h-[540px] lg:overflow-y-auto">
             {stations.map((station, idx) => {
               const isSelected = currentStationId === station.id;
               const isLive = isSelected && status === 'playing';

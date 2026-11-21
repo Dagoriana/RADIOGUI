@@ -442,7 +442,7 @@ export function useRadioPlayer({
       navigator.mediaSession.metadata = new MediaMetadata({
         title: currentStation.name,
         artist: `${currentStation.frequency} · ${currentStation.city}`,
-        album: 'RadioWin AR · En Vivo',
+        album: 'RADIOGUI LLOTE · En Vivo',
         artwork: [
           {src: '/pwa-192x192.png', sizes: '192x192', type: 'image/png'},
           {src: '/pwa-512x512.png', sizes: '512x512', type: 'image/png'},

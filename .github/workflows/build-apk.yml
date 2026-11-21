@@ -58,5 +58,5 @@ jobs:
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
-          name: RadioWin-AR-debug-apk
+          name: RADIOGUI-LLOTE-debug-apk
           path: android/app/build/outputs/apk/debug/app-debug.apk

@@ -1,0 +1,12 @@
+{
+  "appId": "ar.radiowin.app",
+  "appName": "RadioWin AR",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": ["*"]
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}

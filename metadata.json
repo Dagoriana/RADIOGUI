@@ -1,0 +1,6 @@
+{
+  "name": "RadioWin AR",
+  "description": "Sintonizador liviano estilo Winamp de radios argentinas en vivo, con favoritos, reproducción con pantalla bloqueada, ahorro de datos móviles y gestión de caché.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
